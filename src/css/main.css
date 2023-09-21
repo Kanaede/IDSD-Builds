@@ -21,3 +21,15 @@ footer{
 .poppin-font {
 	font-family: 'Poppins', sans-serif;
 }
+
+.mt-80 {
+	margin-top: 80px;
+}
+
+.mt-40 {
+	margin-top: 40px;
+}
+
+.webout-footer {
+	background-color: powderblue;
+}
