@@ -1,6 +1,8 @@
 # IDSD-Builds
 Builds and Lab to make Alpha/Beta version of IDSD
 
+Original Website: [By Albert](https://github.com/albertputra/IDSD)
+
 ## Status:
 [![License](https://img.shields.io/github/license/kanaede/IDSD-Builds?style=for-the-badge)](LICENSE)
 [![Repo size](https://img.shields.io/github/repo-size/Kanaede/IDSD-Builds?style=for-the-badge)](#)
