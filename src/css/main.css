@@ -10,6 +10,10 @@ footer{
 	position: relative;
 }
 
+.text-nodeco {
+	text-decoration: none;
+}
+
 .rem18 {
 	width: 18rem;
 }
