@@ -10,6 +10,10 @@ footer{
 	position: relative;
 }
 
+.undeco {
+	text-decoration: none;
+}
+
 .text-nodeco {
 	text-decoration: none;
 }
@@ -40,4 +44,17 @@ footer{
 
 .foot-color {
 	background-color: skyblue;
+}
+
+.nav-margin-20 {
+	margin-left: 20px;
+}
+
+.nav-margin-10 {
+	margin-left: 10px;
+}
+
+.nav-logo {
+	width: 30px;
+	height: auto;
 }
